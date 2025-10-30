@@ -4,11 +4,11 @@
      height="auto"/>
 </p>
 
-# MLOps World: Gen AI Summit 2025
+# ODSC 2025
 
-Welcome to the **MLOps World: Gen AI Summit 2025**! 
+Welcome to the **ODSC 2025**! 
 
-In this hands-on workshop, you'll learn to build your own ChatGPT-like application using OpenAI's latest tools and frameworks. We'll follow the journey from simple prompting to an agentic systems - the same kind of evolution that transformed ChatGPT from an LLM with a front end into the powerful platform it is today.
+In this workshop, we'll cover Context Engineering through the lens of the OpenAI Agents SDK!
 
 For aspiring AI Engineers, this is one of the best ways to learn to build 🏗️, ship 🚢, and share 🚀 customized LLM applications.
 
